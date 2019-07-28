@@ -1,4 +1,5 @@
 from collections import defaultdict, namedtuple
+# Author: Andrew Shen
 
 class TagList:
     def __init__(self):
